@@ -1,0 +1,40 @@
+img {
+	height: 100px;
+	position:relative;
+	padding:5px;
+}
+
+a {
+	pointer-events: none;
+}
+
+
+.test {
+	opacity: 0.9;
+}
+
+.cards-cell {
+	width:100px;
+}
+
+.player-input {
+	height: 100px;
+	font-size:50px;
+}
+
+.dice-container {
+	min-height:300px;
+	width:100px;
+	text-align:center;
+}
+
+#dice3d-table {
+  position: fixed;
+  top: 20%;
+  left: 35%;
+  height: 0;
+}
+
+.custom-modal {
+	width: 100%;
+}
