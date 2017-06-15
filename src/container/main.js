@@ -4,11 +4,11 @@ import { Table, Button } from 'semantic-ui-react'
 import LaunchModal from '../components/modal-launch';
 import Dice from './modal-dice-display';
 
-import Wood from 'img/wood.jpg';
-import Brick from 'img/brick.jpg';
-import Sheep from 'img/sheep.jpg';
-import Wheat from 'img/wheat.jpg';
-import Ore from 'img/ore.jpg';
+import Wood from '/img/wood.jpg';
+import Brick from '/img/brick.jpg';
+import Sheep from '/img/sheep.jpg';
+import Wheat from '/img/wheat.jpg';
+import Ore from '/img/ore.jpg';
 
 
 class Main extends Component {
