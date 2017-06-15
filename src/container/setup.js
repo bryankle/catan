@@ -9,7 +9,7 @@ import PlayerFields from '../components/player-fields';
 class Setup extends Component {
 
 	constructor(props) {
-		super(props)
+		super(props) // Remove since no inheritance
 		this.state = {
 			count: 2
 		}
